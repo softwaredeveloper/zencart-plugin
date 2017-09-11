@@ -35,7 +35,7 @@ Note: This extension does not provide a means of automatically pulling a current
   * BitPay merchant support documentation
 
 ## ZenCart Support
-http://www.phpfreelanceprogrammer.com/zencart-php-developer.html
+* [Freelance zencart developer](https://www.phpfreelanceprogrammer.com/zencart-php-developer.html)
 * [Homepage](http://www.zen-cart.com)
 * [Documentation](http://www.zen-cart.com/wiki/index.php/Developers_API)
 * [Support Forums](http://www.zen-cart.com/forum.php)
